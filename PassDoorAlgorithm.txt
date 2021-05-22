@@ -3,3 +3,4 @@ Steps of the project
 2. programming the IC to identifies the number pad
 4. programming the IC to display data on the LCD
 5.
+   this
