@@ -1,6 +1,12 @@
 Steps of the project
-1. the default passcode
+1. the default passcode method
 2. programming the IC to identifies the number pad
 4. programming the IC to display data on the LCD
-5.
-   this
+5.programming the LCD to display the main menu which includes:
+            The input passcode option
+            The reset passcode option
+6. The input passcode option runs the input method, which allows the user input
+a 4 digit code, if the code is correct display the "passcode correct" then open
+the door. If not correct then ask for another passcode
+7. The reset passcode method will allow the user input a new code and save it
+in the default passcode method 
