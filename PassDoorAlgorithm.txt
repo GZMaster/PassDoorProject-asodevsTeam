@@ -9,4 +9,4 @@ Steps of the project
 a 4 digit code, if the code is correct display the "passcode correct" then open
 the door. If not correct then ask for another passcode
 7. The reset passcode method will allow the user input a new code and save it
-in the default passcode method 
+in the default passcode method
